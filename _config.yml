@@ -61,10 +61,10 @@ app_title_color                           : "#ffffff"
 app_price_color                           : "#ffffff"
 app_description_color                     : "#ffffff"
 
-feature_title_color                       : "#2C2C2C2C"
+feature_title_color                       : "#2C2C2C"
 feature_text_color                        : "#666666"
 
-feature_icons_foreground_color            : "#2C2C2C2C"
+feature_icons_foreground_color            : "#2C2C2C"
 feature_icons_background_color            : "#e6e6e6"
 
 social_icons_foreground_color             : "#666666"
