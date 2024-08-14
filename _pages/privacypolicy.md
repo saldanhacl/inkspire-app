@@ -1,3 +1,9 @@
+---
+layout: page
+title: Privacy Policy
+include_in_header: true
+---
+
 # Terms & Conditions
 
 These terms and conditions apply to the InkSpire app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service.
