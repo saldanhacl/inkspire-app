@@ -23,4 +23,4 @@ Thank you for reaching out to us! We'll get back to you as soon as possible.
 
 ---
 
-© 2024 InkSpire. All rights reserved.
+© 2024 Lucas Saldanha
